@@ -1,0 +1,41 @@
+#Scont{
+    padding: 50px 0;
+    text-align: center;
+}
+#Scont article{
+    width: 460px;
+    height: 290px;
+    float: left;
+    background-color: cornsilk;
+    border-radius: 20px;20px
+
+}
+#Scont article:first-child{
+    margin-right: 20px;
+}
+#Scont article .overlay{
+    background: cornsilk;
+    height: 250px;
+    width: 190px;
+    padding: 20px;
+    border-radius: 18px;
+}
+
+article h4{
+    border-bottom: 1px solid #754014 ;
+    margin-top: 6px;
+    padding-bottom: 5px;
+}
+.more-link{
+    border: 2px solid #754014;
+    color: #754014;
+    padding: 6px 4px;
+    border-radius: 6px;
+}
+.more-link:hover{
+    background-color: hsl(27, 69%, 36%);
+    color: #fff;
+}
+#Scont article p small{
+    font-size: 18px;
+}

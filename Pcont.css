@@ -1,0 +1,25 @@
+#Pcont{
+    background-color: cornsilk;
+    padding: 60px 0;
+    text-align: center;
+}
+#Pcont h3{
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 400px;
+    border-bottom: 2px solid #754014;
+    padding: 0 0 20px 0;
+    font-family: cursive;
+}
+#Pcont h5{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+#Pcont a img{
+    margin: 20px 0;
+    width: 900px;
+}

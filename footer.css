@@ -1,0 +1,30 @@
+footer{
+    padding:60px 0;
+
+    background-color: cornsilk;
+}
+#footer-info{
+    width: 380px;
+    float: left;
+    margin-top: 10px;
+}
+#footer-links{
+    width: 520px;
+    float: right;
+}
+#footer-links ul{
+    
+    float: left;
+    margin-left: 20px;
+    
+}
+#footer-links ul li {
+    margin: 8px 0;
+    display: inline-block;
+    height: 10px;
+    width: 40px;
+    font-size: 40px;
+    margin-right: 15px;
+
+    
+}
